@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+}
+
+.geolocate_button {
+  float: left;
+  margin: 1rem;
+  padding: 0.5rem;
+}
